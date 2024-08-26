@@ -1,0 +1,19 @@
+{
+    "type": "action",
+    "title": "Guess Heads/Tails ",
+    "icon": "https://actions.arpitkhandelwal.com/coin-flip.jpeg",
+    "description": "Bet on a coin flip. Double your money on winning",
+    "label": "Transfer",
+    "links": {
+        "actions": [
+            {
+                "label": "0.01 on Heads",
+                "href": "https://actions.arpitkhandelwal.com/api/actions?to=2GeK9GZrUiz7JCVfQ7VrqiT8JfYGUyfXTo2DbqmkcDFF&amount=0.01&wager=H"
+            },
+            {
+                "label": "0.01 on Tails",
+                "href": "https://actions.arpitkhandelwal.com/api/actions?to=2GeK9GZrUiz7JCVfQ7VrqiT8JfYGUyfXTo2DbqmkcDFF&amount=0.01&wager=T"
+            }
+        ]
+    }
+}
